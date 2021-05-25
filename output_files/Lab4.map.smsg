@@ -1,0 +1,5 @@
+Warning (10268): Verilog HDL information at Fourbitcounter.v(10): always construct contains both blocking and non-blocking assignments File: C:/scratch/s3815282/Lab4/Fourbitcounter.v Line: 10
+Info (10281): Verilog HDL Declaration information at TenSecondTimer.v(8): object "Tc" differs only in case from object "tc" in the same scope File: C:/scratch/s3815282/Lab4/TenSecondTimer.v Line: 8
+Info (10281): Verilog HDL Declaration information at ArmSwitch.v(4): object "ARMED" differs only in case from object "armed" in the same scope File: C:/scratch/s3815282/Lab4/ArmSwitch.v Line: 4
+Info (10281): Verilog HDL Declaration information at Switch.v(4): object "ARMED" differs only in case from object "armed" in the same scope File: C:/scratch/s3815282/Lab4/Switch.v Line: 4
+Info (10281): Verilog HDL Declaration information at FiveSecondTimer.v(8): object "Tc" differs only in case from object "tc" in the same scope File: C:/scratch/s3815282/Lab4/FiveSecondTimer.v Line: 8

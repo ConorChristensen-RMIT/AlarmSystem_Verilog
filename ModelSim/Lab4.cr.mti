@@ -1,0 +1,106 @@
+C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Threebitcounter.v {1 {vlog -work work -stats=none C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Threebitcounter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Threebitcounter
+
+Top level modules:
+	Threebitcounter
+
+} {} {}} C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Ninebitcounter.v {1 {vlog -work work -stats=none C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Ninebitcounter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Ninebitcounter
+
+Top level modules:
+	Ninebitcounter
+
+} {} {}} C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/SRLatch.v {1 {vlog -work work -stats=none C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/SRLatch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SRLatch
+
+Top level modules:
+	SRLatch
+
+} {} {}} C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Switch.v {1 {vlog -work work -stats=none C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Switch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Switch
+
+Top level modules:
+	Switch
+
+} {} {}} C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/twentymsTimer.v {1 {vlog -work work -stats=none C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/twentymsTimer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TwentymsTimer
+
+Top level modules:
+	TwentymsTimer
+
+} {} {}} C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Variablebitcounter.v {1 {vlog -work work -stats=none C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Variablebitcounter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Variablebitcounter
+
+Top level modules:
+	Variablebitcounter
+
+} {} {}} C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/FiveSecondTimer.v {1 {vlog -work work -stats=none C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/FiveSecondTimer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FiveSecondTimer
+
+Top level modules:
+	FiveSecondTimer
+
+} {} {}} C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TwentySecondTimer.v {1 {vlog -work work -stats=none C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TwentySecondTimer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TwentySecondTimer
+
+Top level modules:
+	TwentySecondTimer
+
+} {} {}} C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TenmsTimer.v {1 {vlog -work work -stats=none C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TenmsTimer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TenmsTimer
+
+Top level modules:
+	TenmsTimer
+
+} {} {}} C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/ArmSwitch.v {1 {vlog -work work -stats=none C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/ArmSwitch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ArmSwitch
+
+Top level modules:
+	ArmSwitch
+
+} {} {}} C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Fourbitcounter.v {1 {vlog -work work -stats=none C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Fourbitcounter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Fourbitcounter
+
+Top level modules:
+	Fourbitcounter
+
+} {} {}} C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/HundredmsTimer.v {1 {vlog -work work -stats=none C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/HundredmsTimer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HundredmsTimer
+
+Top level modules:
+	HundredmsTimer
+
+} {} {}} C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TenSecondTimer.v {1 {vlog -work work -stats=none C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TenSecondTimer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TenSecondTimer
+
+Top level modules:
+	TenSecondTimer
+
+} {} {}} C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/FiveHzBlink.v {1 {vlog -work work -stats=none C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/FiveHzBlink.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FiveHzBlink
+
+Top level modules:
+	FiveHzBlink
+
+} {} {}} C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Tenbitcounter.v {1 {vlog -work work -stats=none C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Tenbitcounter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Tenbitcounter
+
+Top level modules:
+	Tenbitcounter
+
+} {} {}}

@@ -1,0 +1,5 @@
+module TenSecondTimer(
+	input clock50, Mr,
+	output finished
+)
+

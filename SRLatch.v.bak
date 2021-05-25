@@ -1,0 +1,23 @@
+module SRClock (
+	input sw,
+	output Q
+	);
+	
+wire s, r; // Create the S and R inputs for the SR latch
+
+assign s = sw;
+assign r = ~sw;
+reg clockout;
+
+always @(*)
+	begin 
+		if (s & ~r) clockout = 1'b1;
+		else if (r & ~s) clockout = 1'b0;
+		else if (r & s) clockout = 1'b0;
+	end
+
+assign Q = clockout;
+
+
+endmodule
+

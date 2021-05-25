@@ -1,0 +1,65 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "DISARM_LED",
+					"strict" : false
+				},
+				{
+					"name" : "ARM_TRIG_LED",
+					"strict" : false
+				},
+				{
+					"name" : "SIREN",
+					"strict" : false
+				},
+				{
+					"name" : "STROBE",
+					"strict" : false
+				},
+				{
+					"name" : "R1_LED",
+					"strict" : false
+				},
+				{
+					"name" : "R2_LED",
+					"strict" : false
+				},
+				{
+					"name" : "R3_LED",
+					"strict" : false
+				},
+				{
+					"name" : "R1",
+					"strict" : false
+				},
+				{
+					"name" : "R2",
+					"strict" : false
+				},
+				{
+					"name" : "R3",
+					"strict" : false
+				},
+				{
+					"name" : "arm_sw_n",
+					"strict" : false
+				},
+				{
+					"name" : "RESET",
+					"strict" : false
+				},
+				{
+					"name" : "panic_sw_n",
+					"strict" : false
+				},
+				{
+					"name" : "clock50",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

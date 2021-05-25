@@ -1,0 +1,61 @@
+module Variablebitcounter(clock50, Mr, En, load_en, load_count, width, Qout, Tc);
+
+	input clock50;
+	input [4:0]width;			//Counter width can be set up to 15 bits wide
+	input Mr;					//Master Reset
+	input En;
+	input load_en;
+	input [width-1:0]load_count;
+	output [width-1:0]Qout;
+	output Tc;
+	
+	
+	reg [width-1:0]counter;
+	reg counter_finished;
+	reg [width-1:0]current_count;
+	
+	
+	always@(posedge(clock50))
+		begin
+			if (Mr) counter = 0;
+			else if (load_en) counter[width-1:0] = load_count[width-1:0];
+			else if (En)
+				begin
+					if (counter == ((2**width)-1)) counter = 0;
+					else counter = counter + 1'b1;
+				end
+				
+			
+			case (counter)
+				4'b0000:
+					begin
+						counter_finished <= 0;
+						counter = counter + 1'b1;
+					end
+				4'b0001: counter = counter + 1'b1;
+				4'b0010: counter = counter + 1'b1;
+				4'b0011: counter = counter + 1'b1;
+				4'b0100: counter = counter + 1'b1;
+				4'b0101: counter = counter + 1'b1;
+				4'b0110: counter = counter + 1'b1;
+				4'b0111: counter = counter + 1'b1;
+				4'b1000: counter = counter + 1'b1;
+				4'b1001: counter = counter + 1'b1;
+				4'b1010: counter = counter + 1'b1;
+				4'b1011: counter = counter + 1'b1;
+				4'b1100: counter = counter + 1'b1;
+				4'b1101: counter = counter + 1'b1;
+				4'b1110: counter = counter + 1'b1;
+				4'b1111: 
+					begin
+						counter = 4'b0000;
+						counter_finished <= 1;
+					end
+			endcase
+		end
+
+	assign Tc = counter_finished;
+	
+	
+endmodule
+	

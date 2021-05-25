@@ -1,0 +1,629 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 100C Model Setup 'Tenbitcounter:SD2|counter_finished'
+Slack : -7.687
+TNS   : -29.371
+
+Type  : Slow 1100mV 100C Model Setup 'clock50'
+Slack : -4.887
+TNS   : -208.902
+
+Type  : Slow 1100mV 100C Model Setup 'FiveSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : -4.453
+TNS   : -43.678
+
+Type  : Slow 1100mV 100C Model Setup 'FiveSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : -4.085
+TNS   : -36.738
+
+Type  : Slow 1100mV 100C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : -3.629
+TNS   : -33.279
+
+Type  : Slow 1100mV 100C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB1|counter_finished'
+Slack : -3.571
+TNS   : -33.171
+
+Type  : Slow 1100mV 100C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : -3.561
+TNS   : -32.024
+
+Type  : Slow 1100mV 100C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB2|counter_finished'
+Slack : -3.527
+TNS   : -31.720
+
+Type  : Slow 1100mV 100C Model Setup 'FiveHzBlink:FHZ|Tenbitcounter:TB1|counter_finished'
+Slack : -3.263
+TNS   : -31.618
+
+Type  : Slow 1100mV 100C Model Setup 'Tenbitcounter:SD1|counter_finished'
+Slack : -3.204
+TNS   : -49.390
+
+Type  : Slow 1100mV 100C Model Setup 'FiveHzBlink:FHZ|Tenbitcounter:TB2|counter_finished'
+Slack : -1.775
+TNS   : -8.408
+
+Type  : Slow 1100mV 100C Model Setup 'arm_sw_n'
+Slack : -1.106
+TNS   : -2.211
+
+Type  : Slow 1100mV 100C Model Setup 'panic_sw_n'
+Slack : -0.860
+TNS   : -1.716
+
+Type  : Slow 1100mV 100C Model Hold 'clock50'
+Slack : -2.779
+TNS   : -18.106
+
+Type  : Slow 1100mV 100C Model Hold 'panic_sw_n'
+Slack : 0.299
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB1|counter_finished'
+Slack : 0.419
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'arm_sw_n'
+Slack : 0.430
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'Tenbitcounter:SD2|counter_finished'
+Slack : 0.503
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'FiveHzBlink:FHZ|Tenbitcounter:TB1|counter_finished'
+Slack : 0.520
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'FiveHzBlink:FHZ|Tenbitcounter:TB2|counter_finished'
+Slack : 0.571
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : 0.595
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'FiveSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : 0.604
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : 0.612
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'FiveSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : 0.620
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB2|counter_finished'
+Slack : 0.622
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'Tenbitcounter:SD1|counter_finished'
+Slack : 0.688
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'clock50'
+Slack : -0.784
+TNS   : -54.902
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'arm_sw_n'
+Slack : -0.650
+TNS   : -2.367
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'Tenbitcounter:SD1|counter_finished'
+Slack : -0.538
+TNS   : -16.205
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'FiveHzBlink:FHZ|Tenbitcounter:TB1|counter_finished'
+Slack : -0.538
+TNS   : -9.217
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB1|counter_finished'
+Slack : -0.538
+TNS   : -9.146
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'FiveSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : -0.538
+TNS   : -8.694
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : -0.538
+TNS   : -8.563
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : -0.538
+TNS   : -7.587
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'FiveSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : -0.538
+TNS   : -7.180
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB2|counter_finished'
+Slack : -0.538
+TNS   : -6.983
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'FiveHzBlink:FHZ|Tenbitcounter:TB2|counter_finished'
+Slack : -0.538
+TNS   : -4.432
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'Tenbitcounter:SD2|counter_finished'
+Slack : -0.538
+TNS   : -3.424
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'panic_sw_n'
+Slack : -0.538
+TNS   : -1.760
+
+Type  : Slow 1100mV -40C Model Setup 'Tenbitcounter:SD2|counter_finished'
+Slack : -7.688
+TNS   : -29.064
+
+Type  : Slow 1100mV -40C Model Setup 'clock50'
+Slack : -4.661
+TNS   : -201.096
+
+Type  : Slow 1100mV -40C Model Setup 'FiveSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : -4.172
+TNS   : -41.387
+
+Type  : Slow 1100mV -40C Model Setup 'FiveSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : -3.991
+TNS   : -35.866
+
+Type  : Slow 1100mV -40C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB1|counter_finished'
+Slack : -3.450
+TNS   : -31.599
+
+Type  : Slow 1100mV -40C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB2|counter_finished'
+Slack : -3.439
+TNS   : -30.911
+
+Type  : Slow 1100mV -40C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : -3.406
+TNS   : -32.016
+
+Type  : Slow 1100mV -40C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : -3.390
+TNS   : -30.469
+
+Type  : Slow 1100mV -40C Model Setup 'FiveHzBlink:FHZ|Tenbitcounter:TB1|counter_finished'
+Slack : -3.311
+TNS   : -32.456
+
+Type  : Slow 1100mV -40C Model Setup 'Tenbitcounter:SD1|counter_finished'
+Slack : -3.257
+TNS   : -50.922
+
+Type  : Slow 1100mV -40C Model Setup 'FiveHzBlink:FHZ|Tenbitcounter:TB2|counter_finished'
+Slack : -1.609
+TNS   : -7.632
+
+Type  : Slow 1100mV -40C Model Setup 'arm_sw_n'
+Slack : -1.013
+TNS   : -2.022
+
+Type  : Slow 1100mV -40C Model Setup 'panic_sw_n'
+Slack : -0.748
+TNS   : -1.490
+
+Type  : Slow 1100mV -40C Model Hold 'clock50'
+Slack : -3.084
+TNS   : -24.592
+
+Type  : Slow 1100mV -40C Model Hold 'panic_sw_n'
+Slack : 0.316
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'arm_sw_n'
+Slack : 0.439
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'Tenbitcounter:SD2|counter_finished'
+Slack : 0.452
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB1|counter_finished'
+Slack : 0.456
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'FiveHzBlink:FHZ|Tenbitcounter:TB2|counter_finished'
+Slack : 0.488
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : 0.559
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'FiveSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : 0.604
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : 0.607
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB2|counter_finished'
+Slack : 0.625
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'FiveHzBlink:FHZ|Tenbitcounter:TB1|counter_finished'
+Slack : 0.635
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'FiveSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : 0.645
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'Tenbitcounter:SD1|counter_finished'
+Slack : 0.767
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'clock50'
+Slack : -0.805
+TNS   : -51.501
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'arm_sw_n'
+Slack : -0.685
+TNS   : -2.433
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'Tenbitcounter:SD1|counter_finished'
+Slack : -0.538
+TNS   : -15.858
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB1|counter_finished'
+Slack : -0.538
+TNS   : -9.288
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'FiveHzBlink:FHZ|Tenbitcounter:TB1|counter_finished'
+Slack : -0.538
+TNS   : -9.010
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'FiveSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : -0.538
+TNS   : -8.586
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : -0.538
+TNS   : -8.548
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : -0.538
+TNS   : -7.545
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'FiveSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : -0.538
+TNS   : -7.043
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB2|counter_finished'
+Slack : -0.538
+TNS   : -6.926
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'FiveHzBlink:FHZ|Tenbitcounter:TB2|counter_finished'
+Slack : -0.538
+TNS   : -4.317
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'Tenbitcounter:SD2|counter_finished'
+Slack : -0.538
+TNS   : -3.274
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'panic_sw_n'
+Slack : -0.538
+TNS   : -1.973
+
+Type  : Fast 1100mV 100C Model Setup 'Tenbitcounter:SD2|counter_finished'
+Slack : -4.202
+TNS   : -15.981
+
+Type  : Fast 1100mV 100C Model Setup 'clock50'
+Slack : -3.857
+TNS   : -99.431
+
+Type  : Fast 1100mV 100C Model Setup 'FiveSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : -2.129
+TNS   : -20.348
+
+Type  : Fast 1100mV 100C Model Setup 'FiveSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : -1.949
+TNS   : -17.532
+
+Type  : Fast 1100mV 100C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB1|counter_finished'
+Slack : -1.697
+TNS   : -15.362
+
+Type  : Fast 1100mV 100C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : -1.694
+TNS   : -15.241
+
+Type  : Fast 1100mV 100C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : -1.668
+TNS   : -14.403
+
+Type  : Fast 1100mV 100C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB2|counter_finished'
+Slack : -1.630
+TNS   : -14.665
+
+Type  : Fast 1100mV 100C Model Setup 'Tenbitcounter:SD1|counter_finished'
+Slack : -1.400
+TNS   : -17.058
+
+Type  : Fast 1100mV 100C Model Setup 'FiveHzBlink:FHZ|Tenbitcounter:TB1|counter_finished'
+Slack : -1.398
+TNS   : -11.443
+
+Type  : Fast 1100mV 100C Model Setup 'FiveHzBlink:FHZ|Tenbitcounter:TB2|counter_finished'
+Slack : -0.605
+TNS   : -2.975
+
+Type  : Fast 1100mV 100C Model Setup 'arm_sw_n'
+Slack : -0.151
+TNS   : -0.301
+
+Type  : Fast 1100mV 100C Model Setup 'panic_sw_n'
+Slack : -0.037
+TNS   : -0.074
+
+Type  : Fast 1100mV 100C Model Hold 'clock50'
+Slack : -1.518
+TNS   : -10.299
+
+Type  : Fast 1100mV 100C Model Hold 'FiveHzBlink:FHZ|Tenbitcounter:TB1|counter_finished'
+Slack : 0.045
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'FiveHzBlink:FHZ|Tenbitcounter:TB2|counter_finished'
+Slack : 0.079
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'FiveSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : 0.132
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'panic_sw_n'
+Slack : 0.168
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB1|counter_finished'
+Slack : 0.174
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'Tenbitcounter:SD1|counter_finished'
+Slack : 0.202
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : 0.212
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'Tenbitcounter:SD2|counter_finished'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'arm_sw_n'
+Slack : 0.231
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'FiveSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : 0.243
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB2|counter_finished'
+Slack : 0.243
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'clock50'
+Slack : -0.822
+TNS   : -30.605
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'arm_sw_n'
+Slack : -0.672
+TNS   : -2.204
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'panic_sw_n'
+Slack : -0.643
+TNS   : -2.028
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'Tenbitcounter:SD2|counter_finished'
+Slack : -0.020
+TNS   : -0.040
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'FiveHzBlink:FHZ|Tenbitcounter:TB2|counter_finished'
+Slack : -0.013
+TNS   : -0.065
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB1|counter_finished'
+Slack : -0.008
+TNS   : -0.078
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : 0.002
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'FiveHzBlink:FHZ|Tenbitcounter:TB1|counter_finished'
+Slack : 0.008
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'Tenbitcounter:SD1|counter_finished'
+Slack : 0.092
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : 0.099
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'FiveSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : 0.100
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'FiveSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : 0.104
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB2|counter_finished'
+Slack : 0.137
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Setup 'Tenbitcounter:SD2|counter_finished'
+Slack : -3.917
+TNS   : -15.018
+
+Type  : Fast 1100mV -40C Model Setup 'clock50'
+Slack : -2.978
+TNS   : -73.388
+
+Type  : Fast 1100mV -40C Model Setup 'FiveSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : -1.682
+TNS   : -16.187
+
+Type  : Fast 1100mV -40C Model Setup 'FiveSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : -1.532
+TNS   : -13.773
+
+Type  : Fast 1100mV -40C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : -1.330
+TNS   : -11.965
+
+Type  : Fast 1100mV -40C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB2|counter_finished'
+Slack : -1.301
+TNS   : -11.705
+
+Type  : Fast 1100mV -40C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB1|counter_finished'
+Slack : -1.297
+TNS   : -11.787
+
+Type  : Fast 1100mV -40C Model Setup 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : -1.294
+TNS   : -11.114
+
+Type  : Fast 1100mV -40C Model Setup 'Tenbitcounter:SD1|counter_finished'
+Slack : -1.155
+TNS   : -14.406
+
+Type  : Fast 1100mV -40C Model Setup 'FiveHzBlink:FHZ|Tenbitcounter:TB1|counter_finished'
+Slack : -1.150
+TNS   : -9.505
+
+Type  : Fast 1100mV -40C Model Setup 'FiveHzBlink:FHZ|Tenbitcounter:TB2|counter_finished'
+Slack : -0.420
+TNS   : -2.079
+
+Type  : Fast 1100mV -40C Model Setup 'arm_sw_n'
+Slack : -0.053
+TNS   : -0.105
+
+Type  : Fast 1100mV -40C Model Setup 'panic_sw_n'
+Slack : 0.042
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'clock50'
+Slack : -1.543
+TNS   : -12.848
+
+Type  : Fast 1100mV -40C Model Hold 'FiveHzBlink:FHZ|Tenbitcounter:TB1|counter_finished'
+Slack : -0.044
+TNS   : -0.472
+
+Type  : Fast 1100mV -40C Model Hold 'FiveHzBlink:FHZ|Tenbitcounter:TB2|counter_finished'
+Slack : -0.013
+TNS   : -0.013
+
+Type  : Fast 1100mV -40C Model Hold 'FiveSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : 0.074
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB1|counter_finished'
+Slack : 0.090
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : 0.118
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'FiveSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : 0.134
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'Tenbitcounter:SD1|counter_finished'
+Slack : 0.141
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'panic_sw_n'
+Slack : 0.144
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'Tenbitcounter:SD2|counter_finished'
+Slack : 0.165
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'arm_sw_n'
+Slack : 0.191
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB2|counter_finished'
+Slack : 0.203
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'clock50'
+Slack : -0.853
+TNS   : -38.883
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'arm_sw_n'
+Slack : -0.746
+TNS   : -2.556
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'panic_sw_n'
+Slack : -0.693
+TNS   : -2.341
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB1|counter_finished'
+Slack : 0.036
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'FiveHzBlink:FHZ|Tenbitcounter:TB2|counter_finished'
+Slack : 0.040
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'Tenbitcounter:SD2|counter_finished'
+Slack : 0.051
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : 0.053
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'FiveHzBlink:FHZ|Tenbitcounter:TB1|counter_finished'
+Slack : 0.059
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : 0.111
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'Tenbitcounter:SD1|counter_finished'
+Slack : 0.116
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'FiveSecondTimer:TS1|Tenbitcounter:TB1|counter_finished'
+Slack : 0.124
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'FiveSecondTimer:TS1|Tenbitcounter:TB2|counter_finished'
+Slack : 0.131
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'TwentySecondTimer:TWS1|TenSecondTimer:TS2|Tenbitcounter:TB2|counter_finished'
+Slack : 0.149
+TNS   : 0.000
+
+------------------------------------------------------------

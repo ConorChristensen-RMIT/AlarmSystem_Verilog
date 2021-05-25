@@ -1,0 +1,395 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite
+vArmSwitch
+Z0 !s110 1619681339
+!i10b 1
+!s100 2ncjKJUI3TD`g6G96b1]L3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_<8dAkoG`Z04MB2PAo`[Y2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/ModelSim
+w1619506293
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/ArmSwitch.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/ArmSwitch.v
+!i122 82
+Z4 L0 1 19
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1619681339.000000
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/ArmSwitch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/ArmSwitch.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@arm@switch
+vFiveHzBlink
+R0
+!i10b 1
+!s100 aQDOcNRCn0QTKe4dX<MoB1
+R1
+IOSjJ7XOZGzJTPaC]UmzPh2
+R2
+R3
+w1619676364
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/FiveHzBlink.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/FiveHzBlink.v
+!i122 83
+L0 1 39
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/FiveHzBlink.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/FiveHzBlink.v|
+!i113 1
+R7
+R8
+n@five@hz@blink
+vFiveSecondTimer
+!s110 1619681477
+!i10b 1
+!s100 hk0e1P1S<j[XglEVz3LCI3
+R1
+IjLZZkJA;dkT3^I2eAkHhY2
+R2
+R3
+w1619673026
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/FiveSecondTimer.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/FiveSecondTimer.v
+!i122 97
+Z9 L0 1 32
+R5
+r1
+!s85 0
+31
+!s108 1619681476.000000
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/FiveSecondTimer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/FiveSecondTimer.v|
+!i113 1
+R7
+R8
+n@five@second@timer
+vFourbitcounter
+Z10 !s110 1619681340
+!i10b 1
+!s100 3W99Ib_V=UcdV;Ld>KHMm0
+R1
+IW:XF=;@0Q6mKECkO27g>k3
+R2
+R3
+w1619404789
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Fourbitcounter.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Fourbitcounter.v
+!i122 84
+Z11 L0 1 43
+R5
+r1
+!s85 0
+31
+Z12 !s108 1619681340.000000
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Fourbitcounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Fourbitcounter.v|
+!i113 1
+R7
+R8
+n@fourbitcounter
+vHundredmsTimer
+R10
+!i10b 1
+!s100 <o`iJTX39@32Z2VPWE7B]0
+R1
+IXN2>N?UC=ECYEKA7clXPY2
+R2
+R3
+w1619502083
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/HundredmsTimer.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/HundredmsTimer.v
+!i122 85
+L0 1 18
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/HundredmsTimer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/HundredmsTimer.v|
+!i113 1
+R7
+R8
+n@hundredms@timer
+vLab4
+Z13 !s110 1619681341
+!i10b 1
+!s100 0H95N:H6_YWCfF[W6QZ_Q3
+R1
+I8gLn@C2VPn:K>`NFSo@]12
+R2
+R3
+w1619676823
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Lab4.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Lab4.v
+!i122 86
+L0 1 100
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Lab4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Lab4.v|
+!i113 1
+R7
+R8
+n@lab4
+vNinebitcounter
+R13
+!i10b 1
+!s100 Gb>FilelRHUYMmAfe?DZN1
+R1
+IO:Z64zh_NE^T5?Ik69k9T2
+R2
+R3
+w1619596672
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Ninebitcounter.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Ninebitcounter.v
+!i122 87
+R11
+R5
+r1
+!s85 0
+31
+Z14 !s108 1619681341.000000
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Ninebitcounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Ninebitcounter.v|
+!i113 1
+R7
+R8
+n@ninebitcounter
+vSRLatch
+Z15 !s110 1619681342
+!i10b 1
+!s100 kQiHMddfIAFE`HaP=bddm1
+R1
+I5_g5POmBBC2=Oo3hIc=IG0
+R2
+R3
+w1619501114
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/SRLatch.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/SRLatch.v
+!i122 88
+R4
+R5
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/SRLatch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/SRLatch.v|
+!i113 1
+R7
+R8
+n@s@r@latch
+vSwitch
+R15
+!i10b 1
+!s100 oefW6DMH>[;j;m3c=;3=62
+R1
+In=GkOz_z666T^FD]]U>C91
+R2
+R3
+w1619604396
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Switch.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Switch.v
+!i122 89
+R4
+R5
+r1
+!s85 0
+31
+!s108 1619681342.000000
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Switch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Switch.v|
+!i113 1
+R7
+R8
+n@switch
+vTenbitcounter
+!s110 1619681344
+!i10b 1
+!s100 [Z8zf_7cTf_7VG]WO<P<S1
+R1
+I^<z]M5Zz>`YG3Zf:UTU_N1
+R2
+R3
+w1619596244
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Tenbitcounter.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Tenbitcounter.v
+!i122 90
+R11
+R5
+r1
+!s85 0
+31
+!s108 1619681343.000000
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Tenbitcounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Tenbitcounter.v|
+!i113 1
+R7
+R8
+n@tenbitcounter
+vTenmsTimer
+!s110 1619681345
+!i10b 1
+!s100 GPfgDjRj3:QKY^bFEm5S53
+R1
+IBngOz[MA7E^TMV:2GJElB0
+R2
+R3
+w1619501891
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TenmsTimer.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TenmsTimer.v
+!i122 91
+R4
+R5
+r1
+!s85 0
+31
+!s108 1619681345.000000
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TenmsTimer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TenmsTimer.v|
+!i113 1
+R7
+R8
+n@tenms@timer
+vTenSecondTimer
+Z16 !s110 1619681346
+!i10b 1
+!s100 Jb1Ta@CnlfagDYQ=HI>zh3
+R1
+IEGb3`1?M;8DERbP]Qka9G3
+R2
+R3
+w1619602854
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TenSecondTimer.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TenSecondTimer.v
+!i122 92
+R9
+R5
+r1
+!s85 0
+31
+Z17 !s108 1619681346.000000
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TenSecondTimer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TenSecondTimer.v|
+!i113 1
+R7
+R8
+n@ten@second@timer
+vThreebitcounter
+R16
+!i10b 1
+!s100 iZaBUIY^YAF=m<NQ3[>m71
+R1
+IN]ZTYBJI3DC=PM99Di8J>0
+R2
+R3
+w1619596721
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Threebitcounter.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Threebitcounter.v
+!i122 93
+R11
+R5
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Threebitcounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Threebitcounter.v|
+!i113 1
+R7
+R8
+n@threebitcounter
+vTwentymsTimer
+Z18 !s110 1619681347
+!i10b 1
+!s100 Cbk1HkcI9VfN;E_<DICjC0
+R1
+IW?@>L2@Sna5:^0Pc<o4I_3
+R2
+R3
+w1619501834
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/twentymsTimer.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/twentymsTimer.v
+!i122 94
+R4
+R5
+r1
+!s85 0
+31
+Z19 !s108 1619681347.000000
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/twentymsTimer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/twentymsTimer.v|
+!i113 1
+R7
+R8
+n@twentyms@timer
+vTwentySecondTimer
+R18
+!i10b 1
+!s100 h8Kn9^V@Hb5VCJeRBK<cK0
+R1
+IU5[AOQa<1adAC;I43aTgQ2
+R2
+R3
+w1619602940
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TwentySecondTimer.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TwentySecondTimer.v
+!i122 95
+L0 1 17
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TwentySecondTimer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/TwentySecondTimer.v|
+!i113 1
+R7
+R8
+n@twenty@second@timer
+vVariablebitcounter
+!s110 1619681348
+!i10b 1
+!s100 XjzD6M=TTE;ZlMXP=QN=T1
+R1
+I_5fdf6JMIV_QnA<R;T9:O1
+R2
+R3
+w1619499621
+8C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Variablebitcounter.v
+FC:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Variablebitcounter.v
+!i122 96
+R11
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Variablebitcounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SJC/OneDrive/Documents/Sixth-Year/EEET2162/Labs/Lab4/Variablebitcounter.v|
+!i113 1
+R7
+R8
+n@variablebitcounter
